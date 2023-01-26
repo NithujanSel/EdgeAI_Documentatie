@@ -694,8 +694,8 @@ apparaat. Voor het maken en omzetten van het model naar tflite kun je de
 code op GitHub vinden. Hier onder staan de stappen hoe je model moet
 maken.
 
-Als je een python script gaat runnen op een Coral dev board moet je
-*python3* gebruiken en niet *python* bij commandline.
+**Als je een python script gaat runnen op een Coral dev board moet je
+*python3* gebruiken en niet *python* bij commandline.**
 
 **Om een AI-model te maken voor het Coral Dev Board met TensorFlow Lite,
 kunt u de volgende stappen volgen:**
@@ -963,5 +963,3 @@ Just a moment. . . (z.d.). Geraadpleegd op 21 december 2022, van
 TechCrunch is part of the Yahoo family of brands. (2022, 11 mei).
 Geraadpleegd op 20 januari 2023, van
 https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/
-
-[^1]:
