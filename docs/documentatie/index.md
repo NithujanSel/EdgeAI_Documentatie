@@ -1,8 +1,4 @@
-<img src="./assets/media/image1.png"
-style="width:7.99375in;height:8.50278in" />
-
-
-Inleiding
+# Inleiding
 
 AI (Artificiële Intelligentie) en ML (Machine Learning) nemen een steeds
 prominentere plaats in binnen de IT-wereld. Door velen worden deze

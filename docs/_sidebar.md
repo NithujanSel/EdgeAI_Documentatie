@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 
-* [Documentatie Camera slider](./documentatie/index)
+* [Documentatie Edge AI Cluster](./documentatie/index)
