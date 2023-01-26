@@ -1,5 +1,9 @@
 from mpi4py import MPI
 import random
+import time
+
+startTime = time.time()
+
 
 comm = MPI.COMM_WORLD
 rank = comm.Get_rank()
@@ -9,7 +13,7 @@ if rank == 0:
     print("Calculating pi with {} devices".format(size))
 
 # Number of random points to use in the calculation
-num_points = 10000000
+num_points = 1000000
 
 # Number of points inside the unit circle
 inside_circle = 0
@@ -29,3 +33,6 @@ if rank == 0:
     pi = 4 * inside_circle / num_points
     print("Pi: ", pi)
     print("MPI test successful.")
+    
+uitTijd = (time.time() - startTime)
+print('Uitvoeringstijd in seconden: ' + str(uitTijd))
