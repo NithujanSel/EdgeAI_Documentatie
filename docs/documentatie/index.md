@@ -915,8 +915,8 @@ de fans staan, krijgen ze constant frisse lucht.
 
 # GitHub link
 
-[LINK](https://github.com/NithujanSel/ProjectAi):
-<https://github.com/NithujanSel/ProjectAi>
+[LINK](https://github.com/NithujanSel/EdgeAI_Documentatie):
+<https://github.com/NithujanSel/EdgeAI_Documentatie>
 
 # Conclusie
 
